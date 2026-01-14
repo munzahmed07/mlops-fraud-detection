@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking%20%26%20Registry-blue?style=for-the-badge&logo=mlflow)
+![FastAPI](https://img.shields.io/badge/FastAPI-Serving-green?style=for-the-badge&logo=fastapi)
+![XGBoost](https://img.shields.io/badge/XGBoost-Model-orange?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?style=for-the-badge&logo=scikit-learn)
+![Evidently](https://img.shields.io/badge/Evidently-Drift%20Monitoring-purple?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-End--to--End-black?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+
+
 # 🚨 End-to-End Fraud Detection System with MLOps
 
 A production-style **Machine Learning + MLOps** project that demonstrates the full lifecycle of an ML system — from raw data ingestion to deployment, monitoring, and automated retraining.
