@@ -1,21 +1,49 @@
+# --------------------
 # Python
+# --------------------
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Environments
+# --------------------
+# Virtual Environments
+# --------------------
 .venv/
 venv/
+env/
 fraud/
 
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
 # MLflow
+# --------------------
 mlruns/
 
-# Data & logs
-data/raw/
-data/processed/
+# --------------------
+# Data (DO NOT push large files)
+# --------------------
+data/
+!data/README.md
+
+# --------------------
+# Logs & Reports
+# --------------------
 logs/
 reports/
 
-# OS
+# --------------------
+# OS files
+# --------------------
 .DS_Store
 Thumbs.db
+
+# --------------------
+# IDE
+# --------------------
+.vscode/
+.idea/
