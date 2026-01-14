@@ -233,24 +233,8 @@ What it does:
 4. Registers new model version
 
 ---
+## Created By
 
-## 🧑‍💻 What I learned
+Built by Munzer Ahmed
 
-* How production ML differs from notebooks
-* How to structure real ML projects
-* How MLflow works in practice
-* How to serve ML models reliably
-* Why monitoring & retraining matter
-* How real MLOps pipelines are built
 
----
-
-## 🎯 Resume-ready Description
-
-> Built an end-to-end fraud detection system with full MLOps lifecycle including data pipelines, MLflow-based experiment tracking, FastAPI deployment, prediction logging, drift detection using Evidently AI, and an automated retraining pipeline.
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub — it helps a lot!
