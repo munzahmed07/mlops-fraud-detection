@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+fraud/
+
+# MLflow
+mlruns/
+
+# Data & logs
+data/raw/
+data/processed/
+logs/
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
